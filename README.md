@@ -1,2 +1,2 @@
 # learn_django
-A repo to learn Django
+a repo to learn django framework
